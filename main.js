@@ -27,5 +27,7 @@ function colorirMundo(alo){
         }else{
             alo.src = "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web/main/likebutton.png" 
         }
+        
+    
     
 }
