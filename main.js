@@ -22,10 +22,10 @@ function filtrarPais(categoriaEscolhida){
 function colorirMundo(alo){
     console.log(alo.src)
 
-        if(alo.src == "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web-2022-main/master/img/likebutton.png"){
-            alo.src = "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web-2022-main/master/img/likebuttonyes.png"
+        if(alo.src == "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web/main/likebutton.png"){
+            alo.src = "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web/main/likebuttonyes.png"
         }else{
-            alo.src = "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web-2022-main/master/img/likebutton.png" 
+            alo.src = "https://raw.githubusercontent.com/jessicapriscilla/primeiras-paginas-web/main/likebutton.png"" 
         }
     
 }
